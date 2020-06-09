@@ -14,7 +14,7 @@ set -eo pipefail
 # The defeault docker image version which confirmed that most stable.
 #   See: https://github.com/robinlee/coolwechat/issues/29#issuecomment-619491488
 #
-DEFAULT_WECHAT_VERSION=1.0
+DEFAULT_WECHAT_VERSION=1.2
 
 #
 # Get the image version tag from the env
