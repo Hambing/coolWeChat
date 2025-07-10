@@ -16,4 +16,4 @@
 
 7. 备份文件都在群晖的docker目录下的CoolWeChat中。如果你的群晖有作RAID，数据是不是感觉很安全。
 
-8. 什么，你没有群晖？好吧，那你用ubuntu玩玩呗。wget https://github.com/bingor-lee/coolWeChat/docoolwechat.sh    chmod 777 ./docoolwechat.sh   执行他。
+8. 什么，你没有群晖？好吧，那你用ubuntu玩玩呗。wget https://github.com/Hambing/coolWeChat/docoolwechat.sh    chmod 777 ./docoolwechat.sh   执行他。
